@@ -1,0 +1,34 @@
+﻿  main.cpp
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(71,28): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(271,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(272,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(283,21): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(622,83): warning C4244: 'argument': conversion from 'lua_Number' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(622,63): warning C4244: 'argument': conversion from 'lua_Number' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(622,43): warning C4244: 'argument': conversion from 'lua_Number' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(622,23): warning C4244: 'argument': conversion from 'lua_Number' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(629,36): warning C4244: 'argument': conversion from 'lua_Number' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(770,18): warning C4244: 'initializing': conversion from 'duk_double_t' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(771,19): warning C4244: 'initializing': conversion from 'duk_double_t' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(777,26): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(777,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(777,57): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(777,57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(777,88): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(777,88): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(777,119): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(777,119): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(822,59): warning C4244: 'argument': conversion from 'duk_double_t' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(822,36): warning C4244: 'argument': conversion from 'duk_double_t' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(827,59): warning C4244: 'argument': conversion from 'duk_double_t' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(827,36): warning C4244: 'argument': conversion from 'duk_double_t' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(832,101): warning C4244: 'argument': conversion from 'duk_double_t' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(832,78): warning C4244: 'argument': conversion from 'duk_double_t' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(832,55): warning C4244: 'argument': conversion from 'duk_double_t' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(832,32): warning C4244: 'argument': conversion from 'duk_double_t' to 'float', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(839,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(101): warning C4715: 'readFileSTR': not all control paths return a value
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(636): warning C4715: 'lua::lua_actionMouseButton': not all control paths return a value
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(790): warning C4715: 'js_pressKey': not all control paths return a value
+D:\Projects\AutoHotKeySecure\AutoHotKeySecure\main.cpp(795): warning C4715: 'js_releaseKey': not all control paths return a value
+  AutoHotKeySecure.vcxproj -> D:\Projects\AutoHotKeySecure\x64\Debug\AutoHotKeySecure.exe
